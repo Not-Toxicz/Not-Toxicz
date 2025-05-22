@@ -1,6 +1,6 @@
 ## 💖 Not_toxic
 
-Certified in Python entry level. Perusing HTML and PCAP (Advanced Python). My most used language has to be C# but also know the basics or more of PS (shell), Batch, JavaScript, HTML w CSS, and a little about bash.
+Certified in Python entry level. Persuading HTML and PCAP (Advanced Python). My most used language has to be C# but also know the basics or more of PS (shell), Batch, JavaScript, HTML w CSS, and a little about bash.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Not-Toxicz&hide_border=true&card_width=100&card_height=200&show_icons=true&title_color=F8C8DC&icon_color=F8C8DC&text_color=F8C8DC&bg_color=151515">
