@@ -1,4 +1,4 @@
-## 💖 Not_toxic
+## 💖 Not_Toxic
 
 Certified in Python entry level. Persuading HTML and PCAP (Advanced Python). My most used language has to be C# but also know the basics or more of PS (shell), Batch, JavaScript, HTML w CSS, and a little about bash.
 
